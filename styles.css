@@ -67,6 +67,7 @@ hr {
 #sections {
     display: flex;
     margin-top: 625px;
+    height: fit-content;
 }
   
 #section-one {
@@ -135,5 +136,5 @@ section {
 }
 
 #bottom-project {
-    margin-bottom: 60px;
+    margin-bottom: 80px;
 }
