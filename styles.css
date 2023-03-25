@@ -86,6 +86,7 @@ hr {
 
 section {
     border: white 5px solid;
+    border-bottom: 0;
 }
 
 .project {
